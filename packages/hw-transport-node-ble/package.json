@@ -1,6 +1,6 @@
 {
   "name": "@ledgerhq/hw-transport-node-ble",
-  "version": "5.0.0-alpha.0+0c2b368",
+  "version": "5.0.0-alpha.0+2fcdd61",
   "description": "Ledger Hardware Wallet Bluetooth BLE transport for Node.js (noble)",
   "keywords": [
     "Ledger",
@@ -44,5 +44,5 @@
     "watch": "bash ../../script/watch.sh",
     "doc": "bash ../../script/doc.sh"
   },
-  "gitHead": "0c2b3680b02c6068f869a53f1c18e69e78146ff3"
+  "gitHead": "2fcdd61dcbdf5d7ffaed619c15488b8f25de8d4c"
 }
