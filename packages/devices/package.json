@@ -1,6 +1,6 @@
 {
   "name": "@ledgerhq/devices",
-  "version": "5.0.0-alpha.1+1047280",
+  "version": "5.0.0-alpha.4+d82e4bd",
   "description": "Ledger devices",
   "keywords": [
     "Ledger"
@@ -22,8 +22,8 @@
     "flow-bin": "^0.109.0"
   },
   "dependencies": {
-    "@ledgerhq/errors": "^5.0.0-alpha.1+1047280",
-    "@ledgerhq/logs": "^5.0.0-alpha.1+1047280",
+    "@ledgerhq/errors": "^5.0.0-alpha.4+d82e4bd",
+    "@ledgerhq/logs": "^5.0.0-alpha.4+d82e4bd",
     "rxjs": "^6.5.3"
   },
   "scripts": {
@@ -33,5 +33,5 @@
     "watch": "bash ../../script/watch.sh",
     "doc": "bash ../../script/doc.sh"
   },
-  "gitHead": "1047280316397249e168df0974b6354c9aa19ed9"
+  "gitHead": "d82e4bd88e12b3d41c5dc6d7fb32944466b1cbcf"
 }

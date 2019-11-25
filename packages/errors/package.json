@@ -1,6 +1,6 @@
 {
   "name": "@ledgerhq/errors",
-  "version": "5.0.0-alpha.1+1047280",
+  "version": "5.0.0-alpha.4+d82e4bd",
   "description": "Ledger common errors",
   "keywords": [
     "Ledger"
@@ -28,5 +28,5 @@
     "watch": "bash ../../script/watch.sh",
     "doc": "bash ../../script/doc.sh"
   },
-  "gitHead": "1047280316397249e168df0974b6354c9aa19ed9"
+  "gitHead": "d82e4bd88e12b3d41c5dc6d7fb32944466b1cbcf"
 }
