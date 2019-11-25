@@ -1,6 +1,6 @@
 {
   "name": "@ledgerhq/hw-hid-cli",
-  "version": "5.0.0-alpha.4+d82e4bd",
+  "version": "5.0.0-alpha.5+a0ef7b8",
   "description": "Ledger Hardware Wallet cli utility to send apdu to hid",
   "keywords": [
     "Ledger",
@@ -29,7 +29,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@ledgerhq/hw-transport-node-hid": "^5.0.0-alpha.4+d82e4bd"
+    "@ledgerhq/hw-transport-node-hid": "^5.0.0-alpha.5+a0ef7b8"
   },
   "devDependencies": {
     "flow-bin": "^0.109.0"
@@ -41,5 +41,5 @@
     "build": "bash ../../script/build.sh",
     "watch": "bash ../../script/watch.sh"
   },
-  "gitHead": "d82e4bd88e12b3d41c5dc6d7fb32944466b1cbcf"
+  "gitHead": "a0ef7b85494f7ac7cc0ec98732586926aeb8c9c1"
 }

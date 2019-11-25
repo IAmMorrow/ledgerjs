@@ -137,9 +137,11 @@ export default async opts => {
       if (result) {
         console.log(result);
       }
+      console.log('===============================', transport);
       await transport.close();
       afterTest(step, Transport);
     } catch (err) {
+      console.log('===============================', transport);
       await transport.close();
       console.error("Failed test " + step.name + ":", err);
       throw err;

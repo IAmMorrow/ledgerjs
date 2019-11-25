@@ -1,6 +1,6 @@
 {
   "name": "@ledgerhq/hw-transport-node-hid-noevents",
-  "version": "5.0.0-alpha.4+d82e4bd",
+  "version": "5.0.0-alpha.5+a0ef7b8",
   "description": "Ledger Hardware Wallet Node implementation of the communication layer, using node-hid. without usb events",
   "keywords": [
     "Ledger",
@@ -25,10 +25,10 @@
   "main": "lib/TransportNodeHid.js",
   "license": "Apache-2.0",
   "dependencies": {
-    "@ledgerhq/devices": "^5.0.0-alpha.4+d82e4bd",
-    "@ledgerhq/errors": "^5.0.0-alpha.4+d82e4bd",
-    "@ledgerhq/hw-transport": "^5.0.0-alpha.4+d82e4bd",
-    "@ledgerhq/logs": "^5.0.0-alpha.4+d82e4bd",
+    "@ledgerhq/devices": "^5.0.0-alpha.5+a0ef7b8",
+    "@ledgerhq/errors": "^5.0.0-alpha.5+a0ef7b8",
+    "@ledgerhq/hw-transport": "^5.0.0-alpha.5+a0ef7b8",
+    "@ledgerhq/logs": "^5.0.0-alpha.5+a0ef7b8",
     "node-hid": "^0.7.9"
   },
   "devDependencies": {
@@ -41,5 +41,5 @@
     "watch": "bash ../../script/watch.sh",
     "doc": "bash ../../script/doc.sh"
   },
-  "gitHead": "d82e4bd88e12b3d41c5dc6d7fb32944466b1cbcf"
+  "gitHead": "a0ef7b85494f7ac7cc0ec98732586926aeb8c9c1"
 }
